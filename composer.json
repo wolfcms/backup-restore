@@ -1,0 +1,19 @@
+{
+    "name": "wolfcms/backup-restore",
+    "description": "Provides administrators with the option of backing up their pages and settings to an XML file.",
+    "keywords": ["core", "backup", "restore", "backup restore"],
+    "homepage": "http://wolfcms.org",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Wolf CMS project",
+            "homepage": "http://wolfcms.org"
+        }
+    ],
+    "type": "wolfcms-plugin",
+    "require": {
+        "wolfcms/wolfcms": ">=0.6.0",
+        "ext-dom": "*",
+        "ext-SimpleXML": "*"
+    }
+}
