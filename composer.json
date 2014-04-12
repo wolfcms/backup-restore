@@ -12,7 +12,7 @@
     ],
     "type": "wolfcms-plugin",
     "require": {
-        "wolfcms/wolfcms": ">=0.6.0",
+        "wolfcms/wolfcms": "~0.7",
         "ext-dom": "*",
         "ext-SimpleXML": "*"
     }
