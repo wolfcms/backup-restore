@@ -6,7 +6,7 @@
     "license": "GPL-3.0+",
     "authors": [
         {
-            "name": "Wolf CMS project",
+            "name": "The Wolf CMS team",
             "homepage": "http://wolfcms.org"
         }
     ],
@@ -17,7 +17,7 @@
     },
     "extra": {
         "wolfcms": {
-            "min-version": "0.7.0"
+            "min-version": "0.6.0"
         }
     }
 }

@@ -8,7 +8,7 @@
 
 return array(
         'Are you sure you wish to restore?' => 'Voc&ecirc; tem certeza que deseja recuperar o backup?',
-    'As such, the contents of your backup file will replace the contents of your Wolf CMS database.' => 'As such, the contents of your backup file will replace the contents of your Wolf CMS database.',
+    'As such, the contents of your backup file will replace the contents of your Wolf CMS database.' => 'O conteúdo do arquivo de backup irá substituir o conteúdo do seu banco de dados WolfCMS.',
     'Backup Restore' => 'Recupera&ccedil;&atilde;o de Backup',
     'Backup file was not uploaded correctly/completely or is broken.' => 'O arquivo de backup n&atilde;o foi enviado corretamente/completamente ou est&aacute; corrompido.',
     'Backup settings' => 'Configura&ccedil;&otilde;es de backup',

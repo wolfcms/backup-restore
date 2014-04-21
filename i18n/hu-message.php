@@ -70,6 +70,6 @@ return array(
     'Yes' => 'Yes',
     'You can set a default password to enter into any password fields if the backup file does not contain passwords. For this to function, the system expects there to be password fields in the backup file with no value.' => 'You can set a default password to enter into any password fields if the backup file does not contain passwords. For this to function, the system expects there to be password fields in the backup file with no value.',
     'You do not have permission to access the requested page!' => 'You do not have permission to access the requested page!',
-    'You have modified this page.  If you navigate away from this page without first saving your data, the changes will be lost.' => 'You have modified this page.  If you navigate away from this page without first saving your data, the changes will be lost.',
+    'You have modified this page.  If you navigate away from this page without first saving your data, the changes will be lost.' => 'Az oldal módosításai elvesznek ha elnavigálsz!',
     'and upwards.' => 'and upwards.'
 );
