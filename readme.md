@@ -1,3 +1,5 @@
+# STATUS - ARCHIVED
+
 == WHAT IT IS ==
 
 The BackupRestore plugin provides administrators with the option of backing up
